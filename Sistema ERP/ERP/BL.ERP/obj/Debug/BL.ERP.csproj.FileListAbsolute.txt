@@ -1,0 +1,5 @@
+C:\Users\MVALLECILLO\Documents\UNAH-VS\Lenguaje de Programación III\Proyecto\Sistema ERP\ERP\BL.ERP\bin\Debug\BL.ERP.dll
+C:\Users\MVALLECILLO\Documents\UNAH-VS\Lenguaje de Programación III\Proyecto\Sistema ERP\ERP\BL.ERP\bin\Debug\BL.ERP.pdb
+C:\Users\MVALLECILLO\Documents\UNAH-VS\Lenguaje de Programación III\Proyecto\Sistema ERP\ERP\BL.ERP\obj\Debug\BL.ERP.csprojResolveAssemblyReference.cache
+C:\Users\MVALLECILLO\Documents\UNAH-VS\Lenguaje de Programación III\Proyecto\Sistema ERP\ERP\BL.ERP\obj\Debug\BL.ERP.dll
+C:\Users\MVALLECILLO\Documents\UNAH-VS\Lenguaje de Programación III\Proyecto\Sistema ERP\ERP\BL.ERP\obj\Debug\BL.ERP.pdb
